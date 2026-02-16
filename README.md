@@ -10,3 +10,6 @@ From top to bottom
 - TX (unused)
 
 Header info and UART baud rate can be found in the .ino
+
+Read the full writeup here!
+https://www.marvintian.com/projects/vfd/ 
