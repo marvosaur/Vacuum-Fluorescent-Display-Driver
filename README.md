@@ -9,6 +9,8 @@ From top to bottom
 - RX
 - TX (unused)
 
+The left side pins are routed out SPI that are unused. They serve as a mechanical connection for the display.
+
 Header info and UART baud rate can be found in the .ino
 
 Read the full writeup here!
