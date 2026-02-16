@@ -5,6 +5,7 @@ Final version of firmware with stable brightness control using PWM on GRID_BLANK
 
 ## Notes
 Looking at the display driver board facing you, the right side pins are as follows
+
 From top to bottom
 - Vin (5-12V)
 - GND
